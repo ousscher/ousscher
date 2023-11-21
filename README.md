@@ -10,7 +10,8 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 ---
 
 
-**connect with me**
+**connect with me:**
+
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/ousscher)
 [![Facebook](https://img.shields.io/badge/Facebook-Page-blue?logo=facebook&style=social&logoColor=white)](https://www.facebook.com/profile.php?id=100013043322287&locale=fr_FR)
@@ -37,4 +38,4 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom&layout=compact)](https://github.com/ousscher)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousscher&layout=compact)](https://github.com/ousscher)
