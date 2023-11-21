@@ -6,25 +6,32 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 - 💬 Ask me about Mobile dev.
 - 📫 How to reach me: lo_cherguelaine@esi.dz.
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter?style=social)](https://twitter.com/your-twitter)
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/ousscher)
+[![Facebook](https://img.shields.io/badge/Facebook-Page-blue?logo=facebook&style=social&logoColor=white)](https://www.facebook.com/profile.php?id=100013043322287&locale=fr_FR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social&logoColor=white)](https://www.linkedin.com/in/oussama-cherguelaine-300125291/)
+
 
 ---
 
-**🚀 Recent Projects:**
-
-- [Project 1](Link to Project 1): Brief description.
-- [Project 2](Link to Project 2): Brief description.
 
 **🛠️ Technologies & Tools:**
 
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-blue?logo=adobe-photoshop&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white)
 
 ---
 
 Feel free to explore my repositories and connect with me!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/your-username)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/ousscher)
 
