@@ -6,6 +6,11 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 - 💬 Ask me about Mobile dev.
 - 📫 How to reach me: lo_cherguelaine@esi.dz.
 
+
+---
+
+
+**connect with me**
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/ousscher)
 [![Facebook](https://img.shields.io/badge/Facebook-Page-blue?logo=facebook&style=social&logoColor=white)](https://www.facebook.com/profile.php?id=100013043322287&locale=fr_FR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social&logoColor=white)](https://www.linkedin.com/in/oussama-cherguelaine-300125291/)
@@ -31,7 +36,4 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 
 ---
 
-Feel free to explore my repositories and connect with me!
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/ousscher)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom&layout=compact)](https://github.com/votre-nom)
