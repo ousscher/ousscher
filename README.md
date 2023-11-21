@@ -13,7 +13,7 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 **connect with me:**
 
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/ousscher)
+[![GitHub followers](https://img.shields.io/github/followers/ousscher?label=Follow&style=social)](https://github.com/ousscher)
 [![Facebook](https://img.shields.io/badge/Facebook-Page-blue?logo=facebook&style=social&logoColor=white)](https://www.facebook.com/profile.php?id=100013043322287&locale=fr_FR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social&logoColor=white)](https://www.linkedin.com/in/oussama-cherguelaine-300125291/)
 
@@ -32,10 +32,14 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&log
+oColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white)
 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousscher&layout=compact)](https://github.com/ousscher)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ousscher&bg_color=white)](https://github.com/ousscher)
+
