@@ -10,7 +10,7 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 ---
 
 
-**connect with me:**
+**🤝connect with me:**
 
 
 [![GitHub followers](https://img.shields.io/github/followers/ousscher?label=Follow&style=social)](https://github.com/ousscher)
