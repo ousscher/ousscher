@@ -38,8 +38,12 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousscher&layout=compact)](https://github.com/ousscher)
+**📈 GitHub Stats:**
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousscher&layout=compact)](https://github.com/ousscher)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousscher&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/ousscher)
+[![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=ousscher)](https://github.com/ousscher)
+
 
 
