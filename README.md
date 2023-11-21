@@ -32,8 +32,7 @@ I'm Oussama CHERGUELAINE, a passionate MERN (MongoDB, Express.js, React.js, Node
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?logo=java&log
-oColor=white)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white)
 
@@ -41,5 +40,6 @@ oColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousscher&layout=compact)](https://github.com/ousscher)
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ousscher&bg_color=white)](https://github.com/ousscher)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousscher&show_icons=true&hide=prs,issues&count_private=true&theme=radical)](https://github.com/ousscher)
+
 
